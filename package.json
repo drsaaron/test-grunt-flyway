@@ -13,5 +13,8 @@
     "grunt-contrib-jshint": "~0.10.0",
     "grunt-contrib-nodeunit": "~0.4.1",
     "grunt-contrib-uglify": "~0.5.0"
+  },
+  "dependencies": {
+    "grunt-flyway": "^0.3.2"
   }
 }
